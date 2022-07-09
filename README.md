@@ -17,8 +17,8 @@
       <td><a href="http://www.github.com/codecracker2507" title="Github">GitHub</a></td>
       <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900184-f88ad750-b1a9-4471-98d8-6cdfdd0d1915.png"></td>
       <td><a href="https://www.hackerrank.com/agnik2507">HackerRank</a></td>
-      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900180-9fb0f2a3-bccb-4598-8a40-e6261993c143.png"></td>
-      <td><a href="https://www.instagram.com/_agnik2507_/" title="Instagram">Blogger</a></td>
+      <td><img height="32" width="32" src="https://tse1.mm.bing.net/th?id=OIP.ho1dc1a3VpPFl1Fy3pv5vAHaHZ&pid=Api&P=0&w=166&h=166"></td>
+      <td><a href="https://www.instagram.com/_agnik2507_/" title="Instagram">Instagram</a></td>
     </tr>
     <tr>      
       <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900188-e92fc435-559d-489e-b429-3773de9b4352.png"></td>
