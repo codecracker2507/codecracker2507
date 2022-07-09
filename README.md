@@ -21,7 +21,7 @@
       <td><a href="https://www.instagram.com/_agnik2507_/" title="Instagram">Instagram</a></td>
     </tr>
     <tr>      
-      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900188-e92fc435-559d-489e-b429-3773de9b4352.png"></td>
+      <td><img height="32" width="32" src="https://tse4.mm.bing.net/th?id=OIP.3ZzuiBFQSpjv3BDNTGda8gHaHa&pid=Api&P=0&w=158&h=158"></td>
       <td><a href="https://www.facebook.com/agnik.sarkar.148">Facebook</a></td>
       <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900195-9ce9ab12-8489-4b6c-883d-d37252f22d3f.png"></td>
       <td><a href="https://www.codechef.com/users/agnik2507">Codechef</a></td>
